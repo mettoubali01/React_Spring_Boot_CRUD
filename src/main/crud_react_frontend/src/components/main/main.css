@@ -1,0 +1,11 @@
+.main__1_section{
+    margin: 20px  0px;
+}
+
+.error__border{
+    border: 2px #f00 solid;
+}
+
+.error_msg {
+    color: #f00
+}

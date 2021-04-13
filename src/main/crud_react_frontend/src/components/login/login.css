@@ -1,0 +1,36 @@
+.container{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form_WN_legend{
+    padding: 20px;
+}
+
+.login__form{
+    background-color: rgb(240, 239, 239);
+    border: 1px #808080 solid;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.form__title{
+    color: #fff;
+    padding: 10px;
+    background-color: #0275d8;
+    border-radius: 10px 10px 0 0;
+}
+
+.error_msg{
+    color: #ff0000;
+}
+
+#error__border{
+    border: 2px #ff0000 solid;
+}
+
+.a{
+    border: orange 1px solid;
+}
